@@ -1,0 +1,3 @@
+todo:
+1. add more squares button,
+2. increase in difficulty (make squares more and more similar)
